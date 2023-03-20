@@ -24,6 +24,4 @@ Pod::Spec.new do |s|
   s.dependency 'SwiftNIOConcurrencyHelpers', s.version.to_s 
   s.dependency 'SwiftNIOCore', s.version.to_s 
   s.dependency '_NIODataStructures', s.version.to_s 
-  s.dependency 'null', s.version.to_s
-  
 end
