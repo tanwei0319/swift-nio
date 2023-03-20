@@ -21,7 +21,4 @@ Pod::Spec.new do |s|
   s.dependency 'SwiftNIOConcurrencyHelpers', s.version.to_s 
   s.dependency 'CNIOLinux', s.version.to_s 
   s.dependency 'CNIOWindows', s.version.to_s 
-  s.dependency 'null', s.version.to_s 
-  s.dependency 'null', s.version.to_s
-  
 end

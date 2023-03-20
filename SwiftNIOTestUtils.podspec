@@ -22,6 +22,5 @@ Pod::Spec.new do |s|
   s.dependency 'SwiftNIOCore', s.version.to_s 
   s.dependency 'SwiftNIOEmbedded', s.version.to_s 
   s.dependency 'SwiftNIOHTTP1', s.version.to_s 
-  s.dependency 'null', s.version.to_s
   
 end
